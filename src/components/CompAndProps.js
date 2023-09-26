@@ -30,10 +30,10 @@ export default class CompAndProps extends Component{
                 <Square komponen_nama='Osvelina Margaretha S.' komponen_nim='21120120140167' komponen_email='osvelinasiregar@gmail.com' />
                 </div>
                 <div className ="User-info-pink" style={bgColor}>
-                <Square komponen_nama='M. Irhamsyah Arrahim' komponen_nim='21120120140157' komponen_email='kopiqo69@gmail.com' />
+                <Square komponen_nama='Muhammad Irhamsyah Arrahim' komponen_nim='21120120140157' komponen_email='kopiqo69@gmail.com' />
                 </div>
                 <div className ="User-info-purple" style={bgbgColor}>
-                <Square komponen_nama='M. Fitra Arisaputra' komponen_nim='21120120140160' komponen_email='keyladefina@gmail.com' />
+                <Square komponen_nama='Muhammad Fitra Arisaputra' komponen_nim='21120120140160' komponen_email='keyladefina@gmail.com' />
                 </div>
             </div>
         );
